@@ -1,2 +1,1 @@
-# Para-o-prof-lindo
-Para o professor
+# Trabalho da faculdade 1 periodo
